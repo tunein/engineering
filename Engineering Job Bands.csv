@@ -1,243 +1,0 @@
-,Level,Title,Experience (typical),Technical Abilitites,Project ScopeEng,1,Software Engineer I (Software Developer Intern / Bootcamp Graduate),,,Ops,1,NOC or IT Analyst (Entry Level)," - Fresh out of /  in college.
- - TuneIn is probably the first real full time technical role.
-"," - Demonstrates good knowledge of basic computer operation and troubleshooting
- - Wants to learn newer technologies
- - Familiar with the basics of TuneIn's application and systems. 
- - Customer / user-centric "," - Shift duties as assigned by leads
- - Customer support, whether internal (users) or external (partners).
- 
-",,,,,Eng,2,Software Engineer II (Entry level)," - Fresh out of college.
- - TuneIn is probably the first real full time role as an Engineer.
-"," - Demonstrates good knowledge of CS fundamentals (data structures, alogorithms). 
- - Wants to learn newer technologies
- - Some depth in a specific programming language
- - Familiar with the basics of TuneIn's application and codebase"," - Fixes bugs
- - Completes assigned tasks as part of a larger project
- - Tests own and others‰Ûª code
- - Writes automated (unit, functional) tests
- 
-"Ops,2,NOC Engineer / Systems Admin," - 1-2 years of Industry experience.  TuneIn may/maynot be the 1st full time role
-","Everything an Analyst does, plus: 
-
- - Displays experience with one or TuneIn application ecosystem
- - Shows a strong sense of ownership over a core infra component (network, servers, virtualization, cloud, build and release, studios, monitoring tools)
- - Handles day-to-day operations of systems that run the NOC or TuneIn
-"," - Fixes bugs
- - Completes assigned tasks as part of a larger project
- - Handles day to day tasks such as backups and patching
- - Writes scripts and scheduled tasks for basic automation.
- 
-"QA,2,Junior QA Engineer(Entry level)," - Fresh out of college.
- - TuneIn is probably the first real full time role as an Engineer.
-"," - Demonstrates basic knowledge of current technologies for web, mobile, server, etc.
- - Wants to learn newer technologies
- - Knowledge of software development life cycle and basic QA processes
- - Familiar with the basics of TuneIn's application
-"," - Finds and files bugs
- - Completes assigned tasks as part of a larger project
- - Does regression and functional testing
- - Writes test documentation (test cases, test scenarious, etc)
- 
-",,,,,Eng,3,Software Engineer III," - 2-3 years of Industry experience.  TuneIn may/maynot be the 1st full time role
-","Everything a Junior Engineer does, plus:
-
- - Displays experience with one or more languages and related ecosystems
- - Posseses strong understanding of their assigned codebase
- - Understands TuneIn's application and codebase","Everything a Junior Engineer does, plus:
-
- - Delivers assignments with high quality, readability, and timely delivery. 
- - Designs solutions to medium complexity problems, within constraints appropriate for the platform
- - Manages releases / deploys
- - Owns small component or project"Ops,3,Systems / Studio / Devops Engineer," - 2-3 years of Industry experience.  TuneIn is not the 1st full time role
-","Everything a NOC Eng / Systems Admin does, plus: 
-
- - Shows complete ownership over projects/solutions that cover multiple core components.
- - Troubleshooting and root cause analysis skills are critical components
-
-","Everything a NOC Engineer / Systems Admin does, plus:
-
- - Delivers assignments with high quality, documentation and timeliness.
- - Designs solutions to medium complexity problems, within constraints appropriate for the platform. 
- - Manages releases / deployments / live events / scheduled maintenances
- - Owns small component or project"QA,3,QA Engineer," - 2-3 years of Industry experience.  TuneIn may/maynot be the 1st full time role
-","Everything a Junior QA Engineer does, plus:
-
- - Displays experience working with one or more languages and related ecosystems
- - Posseses strong understanding of QA test process
- - Understands TuneIn's application and codebase
-
-","Everything a Junior QA Engineer does, plus:
-
- - Delivers assignments with high quality, readability, and timely delivery. 
- - Designs solutions to medium complexity testing problems, within constraints appropriate for the platform
- - Does releases / deploys to QA and stage enviroments.
- - Creates tasks for offshore team according to test plan and daily changes
- - Owns small component/area on few projects or separate project.",,,,,Eng,4,Senior Software Engineer, - 3-5,"Everything a Software Engineer does, plus:
-
- - Strong command of their assigned codebase
- - Strong command of one or more languages and ecosystems
- - Can explain TuneIn's application architecture and codebase to others
- - Familiartiy with TuneIn's systems / infrastructure architecture
- - Good understanding of how each component, service, process affects performance and user experience
- - Finds and provides suggestions for resolving architectural issues in code reviews","Everything a Software Engineer does, plus:
-
- - Owns medium component or project
- - Designs and implements solutions to complex problems, with high-availability and high-reliability in mind
- - Leads design discussions, proposes approaches, suggests alternatives & improvements 
- - Segment problems into manageable, releasable chunks
- - Designs for observability. Develops testing and monitoring approaches for projects
- - Sees solution into production and beyond. Monitors logs, alerts, bug reports for signs of deeper issues.
-
-"Ops,4,Sr Systems / Studio / Devops Engineer, - 3-5 years of industry experience.  Should be familiar with IT/Ops/Tech concepts introduced within the last 48 months. ,"Everything a Systems / Devops / Studio Engineer does, plus: 
-
- - Strong command of one or more TuneIn application ecosystems. 
- - Strong command of one or more core components
- - Can explain TuneIn's systems architecture to others
- - Familiartiy with TuneIn's systems / application code base
- - Good understanding of how each component, service, process affects performance and user experience
- - Finds and provides suggestions for resolving architectural issues and root cause analysis.","Everything a Systems / Devops / Studio Engineer does, plus:
-
- - Owns medium sized component or project
- - Designs and implements solutions to complex problems, with high-availability and high-reliability in mind
- - Leads design discussions, proposes approaches, suggests alternatives & improvements 
- - Segment problems into manageable, releasable chunks
- - Designs for observability. Develops testing and monitoring approaches for projects
- - Sees solution into production and beyond. Monitors and designs logs, alerts, bug reports for signs of deeper issues.
-
-"QA,4,Senior QA Engineer, - 3-5,"Everything a QA Engineer does, plus:
-
- - Strong command of their assigned project/test suite
- - Strong command of one or more testing techniques 
- - Can explain TuneIn's application architecture, codebase and test approach to others
- - Familiartiy with TuneIn's systems / infrastructure architecture
- - Good understanding of how each component, service, process affects performance and user experience
- - Finds and provides suggestions for resolving conflicting issues in test matrix or automation framework","Everything a QA Engineer does, plus:
-
- - Owns medium component or project
- - Designs and implements solutions to medium-complexity problems, with high-availability and high-reliability in mind
- - Leads test design discussions, proposes approaches, suggests alternatives & improvements 
- - Segment problems into manageable, releasable chunks
- - Sees solution all the way into production and beyond.  Monitors logs, alerts, bug reports for signs of deeper issues.
- - Designs for observability.  Develops testing and monitoring approaches for projects.
-",,,,,Eng,5,Staff Engineer, - 5-8+,"Everything a Sr. Software Engineer does, plus:
-
- - Mastery of the primary codebase they work in
- - Mastery of one or more languages and ecosystems
- - Possesses refined point of view on code readability, styling, architecture
- - Rapid learner that quickly ramps up on new languages, frameworks, and systems
- - Strong understanding of TuneIn's application and systems architecture
- - Understands and drives techniques for improving engineering productivity
- - Experienced with a wide variety of development approaches, patterns, and implementation styles.  
- - Synthesizes knowledge to create novel solutions to problems at hand","Everything a Sr. Software Engineer does, plus:
-
- - Own large components or projects
- - Designs solutions to high complexity problems, with high-availability and high-reliability in mind
- - Instigates design discussions, evaluates approaches, articulates goals and criteria
- - Responsible for overall quality of code, product
- - Determines appropriate tools & techniques for monitoring quality of code in production and diagnosing issues. (logs, alerts, diagnostic tools, etc)
- - Primary driver of resolving production issues.  Ensures proper diagnosis and approach for resolving tricky bugs.
- - Manages project and feature delivery from start to finish
-
-"Ops,5,Team Lead / Staff Systems Engineer, - 5-8+,"Everything a Sr. Systems/Devops Engineer does, plus:
-
- - Mastery of the primary core component they work in
- - Mastery of one or more TuneIn application ecosystems
- - Possesses refined point of view on solution simplicity, scalability, reliability, and availability.
- - Rapid learner that quickly ramps on new languages, frameworks, and systems
- - Strong understanding of TuneIn's application and systems architecture
- - Understands and drives techniques for improving engineering productivity
- - Experienced with a wide variety of system architecture approaches, patterns, and implementation styles.  ","Everything a Sr. Systems/Devops/Engineer does, plus:
-
- - Own large components or projects
- - Designs solutions to high complexity problems, with high-availability and high-reliability in mind
- - Instigates design discussions, evaluates approaches, articulates goals and criteria
- - Responsible for overall quality of solution design
- - Determines appropriate tools & techniques for monitoring quality of solution in production and diagnosing issues. (logs, alerts, diagnostic tools, etc)
- - Primary driver of resolving production issues.  Ensures proper diagnosis and approach for resolving tricky bugs.
- - Assists with project delivery from start to finish
-
-"QA,5,Team Lead/Staff QA Engineer, - 5-8+,"Everything a Sr. QA Engineer does, plus:
-
- - Mastery of the testing techniques in the project they work in
- - Possesses refined point of view on different test approaches, test optimization and test automation
- - Rapid learner that quickly ramps on new languages, frameworks, and systems
- - Strong understanding of TuneIn's application and systems architecture
- - Understands and drives techniques for improving engineering productivity
- - Experienced with a wide variety of testing approaches, patterns, and implementation styles.  
- - Synthesizes knowledge to create novel solutions to problems at hand","Everything a Sr. QA Engineer does, plus:
-
- - Own testing effort and process for a few large components or projects
- - Designs solutions to high complexity problems, with high-availability and high-reliability in mind
- - Instigates test design discussions, evaluates approaches, articulates goals and criteria
- - Responsible for overall quality of code, product
- - Determines appropriate tools & techniques for monitoring quality of code in production and diagnosing issues. (logs, alerts, diagnostic tools, etc)
- - Primary driver of investigating and coordinating resolution for production issues.  Ensures proper diagnosis and approach for resolving tricky bugs.
- - Manages project and feature delivery from start to finish
-
-"Eng,5,Engineering Manager, - 5-8+,"Everything a Sr. Software Engineer does, plus:
-
- - Possesses refined point of view on code readability, styling, architecture
- - Rapid learner that quickly ramps on new languages, frameworks, and systems
- - Strong understanding of TuneIn's application and systems architecture
- - Understands and drives techniques for improving engineering productivity
- - Experienced with a wide variety of development approaches, patterns, and implementation styles.  
- - Synthesizes knowledge to create novel solutions to problems at hand"," - Ensures team is successfully executing prioritized projects.
- - Helps identify & overcome obstacles.  Steps in if/when needed.
- - Works end to end to ensure we minimize gaps between teams.  Serve as point person when there's ambiguity in what's needed.
- - Selectively takes on projects based on importance to the business and/or to establishing good architecture and/or practices.
- - Determines optimal resource allocation, balancing business, product, and employee needs.  Facilitates tradeoffs when needed.
- - May have one or more direct reports.
- - Prepares and delivers performance reviews and drives compensation review and adjustments for team members.
- - Drives hiring and termination processes.
- - Ensures we have a vision and roadmap for their area that anticipates TuneIn customer, industry, and technology needs and trends."Ops,5,Operations Manager, - 5-8+,"Everything a Sr. Techops / Devops Engineer does, plus
-
- - Possesses refined point of view on solution architecture and stability
- - Rapid learner that quickly ramps on systems, technology, processes.
- - Strong understanding of TuneIn's application and systems architecture
- - Understands and drives techniques for improving engineering productivity
- - Experienced with a wide variety of development approaches, patterns, and implementation styles.  
- - Strong project manager skills; can balance workloads and timelines",,,,,,Eng,6,Principal Engineer, - 8+,"Everything a Staff Engineer does, plus:
-
- - Mastery of multiple TuneIn codebases
- - Mastery of TuneIn's application and systems architecture
- - Is an authority in multiple technical disciplines, languages, frameworks, and systems
- - Demonstrates a unique and extraordinarily effective problem solving perspective and approach.
- - Capable of developing entirely new implementations of industry solutions - data structures, frameworks, libraries, services, hardware, etc.
-","Everything a Staff Engineer does, plus:
-
- - Facilitates our most impactful architecture, framework, library decisions.
- - Actively finds ways to improve our engineering productivity, including diving in to teams that need the most help.
- - Takes on projects based on importance to the business and/or to establishing good architecture and/or practices.
- - Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends."Ops,6,Principal Systems Engineer / Systems Architect, - 8+,"Everything a Team Lead / Staff Engineer does, plus:
-
- - Mastery of multiple TuneIn core components
- - Mastery of TuneIn's ecosystems and systems architecture
- - Is an authority in multiple technical / core components, disciplines, languages, frameworks, and systems
- - Demonstrates a unique and extraordinarily effective problem solving perspective and approach.
- - Capable of developing entirely new implementations of industry solutions - orchestration, monitoring, compute services, etc.
-",QA,6,Principal QA Automation Engineer, - 8+,"Everything a Staff Engineer does, plus:
-
- - Mastery of multiple TuneIn test automation framework
- - Mastery of TuneIn's application and systems architecture
- - Is an authority in multiple test technical disciplines, languages, frameworks, and systems
- - Demonstrates a unique and extraordinarily effective problem solving perspective and approach.
- - Capable of developing entirely new implementations of industry solutions - data structures, frameworks, libraries, services, etc.
-","Everything a Staff Engineer does, plus:
-
- - Facilitates our most impactful test architecture, framework, library decisions.
- - Actively finds ways to improve our engineering productivity, including diving in to teams that need the most help.
- - Takes on projects based on importance to the business and/or to establishing good architecture and/or practices.
- - Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends."Eng,6,Engineering Director, - 8+,"Everything an Engineering Manager does, plus:
-
- - Mastery of TuneIn's application and systems architecture
- - Is an authority in multiple technical disciplines, languages, frameworks, and systems
- - Demonstrates a unique and extraordinarily effective problem solving perspective and approach.
- - Strong command over various techniques to improve engineering health and productivity.
-","Everything an Engineering Manager does, plus:
-
- - Ensures goals are defined then drives results measured against a combination of customer, technology, and quality metrics. 
- - Anticipates customer and business needs and leads the team so that they are ahead of the game.
- - Determines and drives organizational changes, resourcing plans, and processes needed to execute effectively.
- - Can drive large scale, risk, or complexity projects through to completion.
- - May have more than one organization in their purview.
- - Ensures we have an overall technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends, and drives us toward it.",,,,,,7,Unlimited, - 8+,,
