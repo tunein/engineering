@@ -1,6 +1,8 @@
+## TuneIn Engineering Job Bands
+
 ## Software Engineer II
 ### Technical Abilities
-* Demonstrates good knowledge of CS fundamentals (data structures, alogorithms).
+* Demonstrates good knowledge of CS fundamentals (data structures, algorithms).
 * Wants to learn newer technologies
 * Some depth in a specific programming language
 * Familiar with the basics of TuneIn's application and codebase
@@ -102,4 +104,22 @@
 * You have a broad + deep perspective: you are a goto when there's ambiguity that needs to be resolved.
 * You actively contribute to motivating & growing the team.  You're asked to provide  performance feedback + input on opportunities for individual growth.
 * You are a picture of responsibility + accountability - the organization depends on you.
-* Plays a key role in hiring and promoting TuneIn as an employer.
+* You play a key role in hiring and promoting TuneIn as an employer.
+
+## Principal Engineer
+### Technical Abilities
+* Mastery of multiple TuneIn codebases
+* Mastery of TuneIn's application and systems architecture
+* Is an authority in multiple technical disciplines, languages, frameworks, and systems
+* Demonstrates a unique and extraordinarily effective problem solving perspective and approach.
+* Capable of developing entirely new implementations of industry solutions - data structures, frameworks, libraries, services, hardware, etc.
+
+### Project Scope
+* Facilitates our most impactful architecture, framework, library decisions.
+* Actively finds ways to improve our engineering productivity, including diving in to teams that need the most help.
+* Takes on projects based on importance to the business and/or to establishing good architecture and/or practices.
+* Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends.
+
+### Behaviors
+* You evangelize TuneIn's engineering org + the stuff we build in the interest of helping us hire/retain fantastic engineering talent
+* You are a key member and decision-maker in the Eng leadership team. Your opinion will carry significant strategic weight.
