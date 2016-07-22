@@ -105,6 +105,34 @@
 * You are a picture of responsibility + accountability - the organization depends on you.
 * You play a key role in hiring and promoting TuneIn as an employer.
 
+## Engineering Manager
+### Technical Abilities
+* Possesses refined point of view on code readability, styling, architecture
+* Rapid learner that quickly ramps on new languages, frameworks, and systems
+* Strong understanding of TuneIn's application and systems architecture
+* Understands and drives techniques for improving engineering productivity
+* Experienced with a wide variety of development approaches, patterns, and implementation styles
+
+### Project Scope
+* Works within the team to support execution
+* Works end-to-end to ensure we minimize gaps between teams
+* Serves as point person when there's ambiguity in what's needed
+* Aligns employee development and product/business need
+* Prepares and delivers performance and compensation review
+* Anticipates and guides TuneIn towards the  intersection of customer, industry, and technology needs/trends
+
+### Behaviors
+* You invest your time wisely. You help the team determine how to best allocate their energy in the interest of both Engineering + TuneIn as a whole.
+* You own the message for your team with respect to priorities and status. You collaborate with product owners + peers regularly.
+* You act as advocate and voice for the team, balancing internal and external demands.
+* You work with Staff/Senior Engineers to develop + iterate your quality playbook including standards for pull requests, code reviews, testing and monitoring.
+* You establish team goals, KPIs, & identify the necessary tactical work to reach those goals/measure those KPIs.
+* You focus on and cultivate a collaborative + healthy culture where Engineers can do their best work.
+* You build, maintain and invest in relationships outside of the Engineering org.
+* You develop + calibrate a thorough understanding of employees’ motivations, strengths, and opportunities.
+* You work to align opportunities for personal growth with prospective impact to TuneIn. Where the isn't natural alignment - you work to create it.
+* You provide constant, real-time feedback to your team. There should be no surprises.
+
 ## Principal Engineer
 ### Technical Abilities
 * Mastery of multiple TuneIn codebases
@@ -122,3 +150,23 @@
 ### Behaviors
 * You evangelize TuneIn's engineering org + the stuff we build in the interest of helping us hire/retain fantastic engineering talent.
 * You are a key member and decision-maker in the Eng leadership team. Your opinion will carry significant strategic weight.
+
+## Engineering Director
+### Technical Abilities
+* Mastery of TuneIn's application and systems architecture
+* Is an authority in multiple technical disciplines, languages, frameworks, and systems
+* Demonstrates a unique and extraordinarily effective problem solving perspective and approach
+* Strong command over various techniques to improve engineering health and productivity
+
+### Project Scope
+* Ensures goals are defined/measured against a combination of customer, technology, and quality metrics
+* Anticipates customer and business needs and leads the team so that they are ahead of the game
+* Plans for and executes org. changes, plans, and processes
+* Can manage large scale, risky, or complex projects to completion
+* May have more than one organization under their purview
+* Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends
+
+### Behaviors
+* You preach and live continuous improvement. You set goals, diagnose how we're performing and identify opportunities for growth/changes.
+* You make strategic decisions that have a profound + lasting impact on TuneIn Eng/Org. You facilitate the execution of those decisions with the help of managers + key technical stakeholders.
+* People see you as reliable and credible across the organization. You are a trusted partner; you are conscientious and do the right thing. You cultivate these same behaviors in your teams.
