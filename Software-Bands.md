@@ -88,7 +88,7 @@
 * Own large components or projects
 * Designs solutions to high complexity problems, with high-availability and high-reliability in mind
 * Instigates design discussions, evaluates approaches, articulates goals and criteria
-* Responsible for overall quality of code, product
+* Responsible for overall quality of code & product
 * Determines appropriate tools & techniques for monitoring quality of code in production and diagnosing issues. (logs, alerts, diagnostic tools, etc)
 * Primary driver of resolving production issues
 * Manages project and feature delivery from start to finish
@@ -96,7 +96,6 @@
 ### Behaviors
 * You develop and refine your playbook for maintaining quality, including standards for pull requests, code reviews, testing and monitoring practices.
 * You are actively seeking out opportunities to teach and mentor fellow team members.
-* You seek out quality of service opportunities that others may not see (forest vs. trees).
 * You are actively pushing back on over-engineered solutions.
 * You understand when an MVP won't provide the depth that the business demands.
 * You are quick to revisit past assumptions - the solution that worked 'then' may not be the right solution for 'now.'
