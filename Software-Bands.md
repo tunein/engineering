@@ -1,5 +1,14 @@
 ## TuneIn Engineering Job Bands
 
+* [Software Engineer II](#software-engineer-ii)
+* [Software Engineer III](#software-engineer-iii)
+* [Senior Software Engineer](#senior-software-engineer)
+* [Staff Engineer](#staff-engineer)
+* [Engineering Manager](#engineering-manager)
+* [Principal Engineer](#principal-engineer)
+* [Engineering Director](#engineering-director)
+
+<a name="senior-software-engineer-ii"></a>
 ## Software Engineer II
 ### Technical Abilities
 * Demonstrates good knowledge of CS fundamentals (data structures, algorithms)
@@ -23,6 +32,7 @@
 * You seek to learn more about the business + the TuneIn problem domain.
 * You are fine-tuning your communication skills: you are an active listener and are able to articulate your thoughts/feelings.
 
+<a name="senior-software-engineer-iii"></a>
 ## Software Engineer III
 ### Technical Abilities
 * Displays experience with one or more languages and related ecosystems
@@ -45,6 +55,7 @@
 * You are collaborative: you work with other engineers on solutions that cut across teams/technologies.
 * You can work independently: you manage your own time efficiently with a strong sense of prioritization.
 
+<a name="senior-software-engineer"></a>
 ## Senior Software Engineer
 ### Technical Abilities
 * Strong command of their assigned codebase
@@ -74,6 +85,7 @@
 * You have strong relationships outside of the Engineering team.
 * You have a sense of who key stakeholders are and who needs to be informed/when they need to be informed.
 
+<a name="staff-engineer"></a>
 ## Staff Engineer
 ### Technical Abilities
 * Mastery of the primary codebase they work in
@@ -104,6 +116,7 @@
 * You are a picture of responsibility + accountability - the organization depends on you.
 * You play a key role in hiring and promoting TuneIn as an employer.
 
+<a name="engineering-manager"></a>
 ## Engineering Manager
 ### Technical Abilities
 * Possesses refined point of view on code readability, styling, architecture
@@ -132,6 +145,7 @@
 * You work to align opportunities for personal growth with prospective impact to TuneIn. Where the isn't natural alignment - you work to create it.
 * You provide constant, real-time feedback to your team. There should be no surprises.
 
+<a name="principal-engineer"></a>
 ## Principal Engineer
 ### Technical Abilities
 * Mastery of multiple TuneIn codebases
@@ -150,6 +164,7 @@
 * You evangelize TuneIn's engineering org + the stuff we build in the interest of helping us hire/retain fantastic engineering talent.
 * You are a key member and decision-maker in the Eng leadership team. Your opinion will carry significant strategic weight.
 
+<a name="engineering-director"></a>
 ## Engineering Director
 ### Technical Abilities
 * Mastery of TuneIn's application and systems architecture
