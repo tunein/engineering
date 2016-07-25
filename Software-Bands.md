@@ -1,15 +1,15 @@
 ## TuneIn Engineering Job Bands
 
-* [Software Engineer II](#software-engineer-ii)
-* [Software Engineer III](#software-engineer-iii)
-* [Senior Software Engineer](#senior-software-engineer)
-* [Staff Engineer](#staff-engineer)
-* [Engineering Manager](#engineering-manager)
-* [Principal Engineer](#principal-engineer)
-* [Engineering Director](#engineering-director)
+* [Software Engineer II (band 2)](#software-engineer-ii)
+* [Software Engineer III (band 3)](#software-engineer-iii)
+* [Senior Software Engineer (band 4)](#senior-software-engineer)
+* [Staff Engineer (band 5)](#staff-engineer)
+* [Engineering Manager (band 5)](#engineering-manager)
+* [Principal Engineer (band 6)](#principal-engineer)
+* [Engineering Director (band 6)](#engineering-director)
 
 <a name="senior-software-engineer-ii"></a>
-## Software Engineer II
+## Software Engineer II (band 2)
 ### Technical Abilities
 * Demonstrates good knowledge of CS fundamentals (data structures, algorithms)
 * Wants to learn newer technologies
@@ -33,7 +33,7 @@
 * You are fine-tuning your communication skills: you are an active listener and are able to articulate your thoughts/feelings.
 
 <a name="senior-software-engineer-iii"></a>
-## Software Engineer III
+## Software Engineer III (band 3)
 ### Technical Abilities
 * Displays experience with one or more languages and related ecosystems
 * Possesses strong understanding of their assigned codebase
@@ -56,7 +56,7 @@
 * You can work independently: you manage your own time efficiently with a strong sense of prioritization.
 
 <a name="senior-software-engineer"></a>
-## Senior Software Engineer
+## Senior Software Engineer (band 4)
 ### Technical Abilities
 * Strong command of their assigned codebase
 * Strong command of one or more languages and ecosystems
@@ -86,7 +86,7 @@
 * You have a sense of who key stakeholders are and who needs to be informed/when they need to be informed.
 
 <a name="staff-engineer"></a>
-## Staff Engineer
+## Staff Engineer (band 5)
 ### Technical Abilities
 * Mastery of the primary codebase they work in
 * Mastery of one or more languages and ecosystems
@@ -117,7 +117,7 @@
 * You play a key role in hiring and promoting TuneIn as an employer.
 
 <a name="engineering-manager"></a>
-## Engineering Manager
+## Engineering Manager (band 5)
 ### Technical Abilities
 * Possesses refined point of view on code readability, styling, architecture
 * Rapid learner that quickly ramps on new languages, frameworks, and systems
@@ -146,7 +146,7 @@
 * You provide constant, real-time feedback to your team. There should be no surprises.
 
 <a name="principal-engineer"></a>
-## Principal Engineer
+## Principal Engineer (band 6)
 ### Technical Abilities
 * Mastery of multiple TuneIn codebases
 * Mastery of TuneIn's application and systems architecture
@@ -165,7 +165,7 @@
 * You are a key member and decision-maker in the Eng leadership team. Your opinion will carry significant strategic weight.
 
 <a name="engineering-director"></a>
-## Engineering Director
+## Engineering Director (band 6)
 ### Technical Abilities
 * Mastery of TuneIn's application and systems architecture
 * Is an authority in multiple technical disciplines, languages, frameworks, and systems
