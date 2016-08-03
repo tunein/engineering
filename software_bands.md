@@ -8,7 +8,7 @@
 * [Principal Engineer (band 6)](#principal-engineer)
 * [Engineering Director (band 6)](#engineering-director)
 
-<a name="senior-software-engineer-ii"></a>
+<a name="software-engineer-ii"></a>
 ## Software Engineer II (band 2)
 ### Technical Abilities
 * Demonstrates good knowledge of CS fundamentals (data structures, algorithms)
@@ -32,7 +32,7 @@
 * You seek to learn more about the business + the TuneIn problem domain.
 * You are fine-tuning your communication skills: you are an active listener and are able to articulate your thoughts/feelings.
 
-<a name="senior-software-engineer-iii"></a>
+<a name="software-engineer-iii"></a>
 ## Software Engineer III (band 3)
 ### Technical Abilities
 * Displays experience with one or more languages and related ecosystems
