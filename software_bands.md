@@ -13,7 +13,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * [Engineering Director (band 6)](#engineering-director)
 * [Unlimited (band 7)](#unlimited)
 
-<a name="senior-software-engineer-ii"></a>
+<a name="software-engineer-ii"></a>
 ## Software Engineer II (band 2)
 ### Technical Abilities
 * Demonstrates good knowledge of CS fundamentals (data structures, algorithms)
