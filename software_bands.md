@@ -1,12 +1,17 @@
 ## TuneIn Engineering Job Bands
 
+Our job bands are listed below in order of experience level.  They are also indicated by numerical "bands", in parentheses.
+
+Note: in some cases there are multiple jobs within a band.  For example, Staff Software Engineer and Engineering Manager are the same level.
+
 * [Software Engineer II (band 2)](#software-engineer-ii)
 * [Software Engineer III (band 3)](#software-engineer-iii)
 * [Senior Software Engineer (band 4)](#senior-software-engineer)
-* [Staff Engineer (band 5)](#staff-engineer)
+* [Staff Software Engineer (band 5)](#staff-software-engineer)
 * [Engineering Manager (band 5)](#engineering-manager)
-* [Principal Engineer (band 6)](#principal-engineer)
+* [Principal Software Engineer (band 6)](#principal-software-engineer)
 * [Engineering Director (band 6)](#engineering-director)
+* [Unlimited (band 7)](#unlimited)
 
 <a name="senior-software-engineer-ii"></a>
 ## Software Engineer II (band 2)
@@ -32,7 +37,7 @@
 * You seek to learn more about the business + the TuneIn problem domain.
 * You are fine-tuning your communication skills: you are an active listener and are able to articulate your thoughts/feelings.
 
-<a name="senior-software-engineer-iii"></a>
+<a name="software-engineer-iii"></a>
 ## Software Engineer III (band 3)
 ### Technical Abilities
 * Displays experience with one or more languages and related ecosystems
@@ -85,7 +90,7 @@
 * You have strong relationships outside of the Engineering team.
 * You have a sense of who key stakeholders are and who needs to be informed/when they need to be informed.
 
-<a name="staff-engineer"></a>
+<a name="staff-software-engineer"></a>
 ## Staff Engineer (band 5)
 ### Technical Abilities
 * Mastery of the primary codebase they work in
@@ -145,7 +150,7 @@
 * You work to align opportunities for personal growth with prospective impact to TuneIn. Where the isn't natural alignment - you work to create it.
 * You provide constant, real-time feedback to your team. There should be no surprises.
 
-<a name="principal-engineer"></a>
+<a name="principal-software-engineer"></a>
 ## Principal Engineer (band 6)
 ### Technical Abilities
 * Mastery of multiple TuneIn codebases
@@ -184,3 +189,7 @@
 * You preach and live continuous improvement. You set goals, diagnose how we're performing and identify opportunities for growth/changes.
 * You make strategic decisions that have a profound + lasting impact on TuneIn Eng/Org. You facilitate the execution of those decisions with the help of managers + key technical stakeholders.
 * People see you as reliable and credible across the organization. You are a trusted partner; you are conscientious and do the right thing. You cultivate these same behaviors in your teams.
+
+<a name="unlimited"></a>
+## Unlimited (band 7)
+We aim to not have a "capped" organization.  At this level of experience and seniority, you can pretty much call yourself whatever you want.  You have an exponential impact on the company and/or industry.
