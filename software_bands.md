@@ -141,7 +141,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 
 ### Behaviors
 * You invest your time wisely and help the team determine how to best allocate their time.  You facilitate collaboration with product owners + peers to ensure the team has clear roadmaps and priorities.
-* You drives and facilitate clarity when there's ambiguity in what's needed.
+* You drive and facilitate clarity when there's ambiguity in what's needed.
 * You ensure your team continuously improves.  You orchestrate improvement using KPIs, root cause analyses, and other mechanisms.
 * You focus on and cultivate a great culture where Engineers can do their best work.
 * You build, maintain and invest in relationships outside of the Engineering org, and ensure your team does the same.
