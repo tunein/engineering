@@ -124,30 +124,29 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 <a name="engineering-manager"></a>
 ## Engineering Manager (band 5)
 ### Technical Abilities
-* Possesses refined point of view on code readability, styling, architecture
-* Rapid learner that quickly ramps on new languages, frameworks, and systems
-* Strong understanding of TuneIn's application and systems architecture
-* Understands and drives techniques for improving engineering productivity
-* Experienced with a wide variety of development approaches, patterns, and implementation styles
+* Possesses refined point of view on code readability, styling, architecture.
+* Rapid learner that quickly ramps on new languages, frameworks, and systems.
+* Strong understanding of TuneIn's application and systems architecture.
+* Understands and drives techniques for improving engineering productivity.
+* Experienced with a variety of development and leadership strategies, tactics, and scenarios.
 
 ### Project Scope
-* Works within the team to support execution
-* Works end-to-end to ensure we minimize gaps between teams
-* Serves as point person when there's ambiguity in what's needed
-* Aligns employee development and product/business need
-* Prepares and delivers performance and compensation review
-* Anticipates and guides TuneIn towards the  intersection of customer, industry, and technology needs/trends
+* Works within the team to support execution, including appropriate risk mitigation.
+* Works end-to-end to ensure we minimize gaps between teams.
+* Works with Staff/Senior Engineers to develop + iterate your quality playbook including standards for pull requests, code reviews, testing, and monitoring.
+* Ensures the team owns the operation of systems and apps in production.  Drives resolution of critical issues, root cause analysis-driven actions.
+* Drives hiring, motivation, growth, and retention.
+* Prepares and delivers performance and compensation reviews.
+* Establishes team goals, KPIs, & identify the necessary tactical work to reach those goals/measure those KPIs.
 
 ### Behaviors
-* You invest your time wisely. You help the team determine how to best allocate their energy in the interest of both Engineering + TuneIn as a whole.
-* You own the message for your team with respect to priorities and status. You collaborate with product owners + peers regularly.
-* You act as advocate and voice for the team, balancing internal and external demands.
-* You work with Staff/Senior Engineers to develop + iterate your quality playbook including standards for pull requests, code reviews, testing and monitoring.
-* You establish team goals, KPIs, & identify the necessary tactical work to reach those goals/measure those KPIs.
-* You focus on and cultivate a collaborative + healthy culture where Engineers can do their best work.
-* You build, maintain and invest in relationships outside of the Engineering org.
-* You develop + calibrate a thorough understanding of employees’ motivations, strengths, and opportunities.
-* You work to align opportunities for personal growth with prospective impact to TuneIn. Where the isn't natural alignment - you work to create it.
+* You invest your time wisely and help the team determine how to best allocate their time.  You facilitate collaboration with product owners + peers to ensure the team has clear roadmaps and priorities.
+* You drives and facilitate clarity when there's ambiguity in what's needed.
+* You ensure your team continuously improves.  You orchestrate improvement using KPIs, root cause analyses, and other mechanisms.
+* You focus on and cultivate a great culture where Engineers can do their best work.
+* You build, maintain and invest in relationships outside of the Engineering org, and ensure your team does the same.
+* You act with and teach appropriate urgency when the situation calls for it. 
+* You develop + calibrate a thorough understanding of employees’ motivations, strengths, and opportunities.  You work to align opportunities for personal growth with prospective impact to TuneIn.
 * You provide constant, real-time feedback to your team. There should be no surprises.
 
 <a name="principal-software-engineer"></a>
@@ -175,12 +174,12 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * Mastery of TuneIn's application and systems architecture
 * Is an authority in multiple technical disciplines, languages, frameworks, and systems
 * Demonstrates a unique and extraordinarily effective problem solving perspective and approach
-* Strong command over various techniques to improve engineering health and productivity
+* Strong command over various techniques to improve engineering and organizational health and productivity
 
 ### Project Scope
 * Ensures goals are defined/measured against a combination of customer, technology, and quality metrics
 * Anticipates customer and business needs and leads the team so that they are ahead of the game
-* Plans for and executes org. changes, plans, and processes
+* Plans for and executes organizational changes, plans, and processes
 * Can manage large scale, risky, or complex projects to completion
 * May have more than one organization under their purview
 * Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends
