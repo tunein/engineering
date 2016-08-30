@@ -173,7 +173,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 ### Technical Abilities
 * Mastery of TuneIn's application and systems architecture
 * Is an authority in multiple technical disciplines, languages, frameworks, and systems
-* Demonstrates a unique and extraordinarily effective problem solving perspective and approach
+* Demonstrates an effective problem solving perspective and approach
 * Strong command over various techniques to improve engineering and organizational health and productivity
 
 ### Project Scope
@@ -186,8 +186,9 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 
 ### Behaviors
 * You preach and live continuous improvement. You set goals, diagnose how we're performing and identify opportunities for growth/changes.
-* You make strategic decisions that have a profound + lasting impact on TuneIn Eng/Org. You facilitate the execution of those decisions with the help of managers + key technical stakeholders.
+* You make strategic decisions that have an impact on TuneIn Eng/Org. You facilitate the execution of those decisions with the help of managers + key technical stakeholders.
 * People see you as reliable and credible across the organization. You are a trusted partner; you are conscientious and do the right thing. You cultivate these same behaviors in your teams.
+* You live and preach  TuneIn's core values, always growing and succeeding as a team, measuring what truly matters.
 
 <a name="unlimited"></a>
 ## Unlimited (band 7)
