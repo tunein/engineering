@@ -74,10 +74,8 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * Owns medium component or project
 * Designs and implements solutions to complex problems, with high-availability and high-reliability in mind
 * Leads design discussions, proposes approaches, suggests alternatives & improvements
-* Segment problems into manageable, releasable chunks
-* Designs for observability. Develops testing and monitoring approaches for projects
-* Sees solution into production and beyond
-* Monitors logs, alerts, bug reports for signs of deeper issues
+* Segment problems into manageable, easily reviewable, releasable chunks
+* Designs for observability. Develops testing and monitoring approaches for projects.  Sees solution into production and beyond.  Monitors logs, alerts, bug reports for signs of deeper issues
 
 ### Behaviors
 * You are setting/establishing best practices/patterns at the software level (coding practices, style guidelines, core libraries, etc.) in the interest of producing clean, maintainable code.
