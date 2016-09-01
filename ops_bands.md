@@ -53,14 +53,13 @@ Everything an Analyst does, plus:
 * Writes scripts and scheduled tasks for basic automation
 
 ### Leadership Behaviors
-* Works on small independent tasks with some help
-* Displays motivation, hunger, and an eagerness to improve
-* Actively seeks feedback and input for their work
-* Actively learns TuneIn architecture, processes, strategies and business
-* Demonstrates strong communication skills, both listening and articulation.
+* Owns small parts of the environment
+* Seeks to understand and integrate with the larger ecosystem
+* Service oriented, puts the customer first
+* Enjoys finding new ways to improve processes and procedures
 
 ### Progress
-Advanced level position dedicated to working with and independently on complex issue concerning the TuneIn environment
+The NOC engineer/Systems admins grow by working closely with senior engineers and architects. Through that partnership they learn how to scale applications, what high availability is, and how to architect solutions with design for failure. 
 
 <a name="sys-engineer"></a>
 ## Systems / Studio / Devops Engineer
@@ -78,6 +77,15 @@ Everything a NOC Engineer / Systems Admin does, plus:
 * Designs solutions to medium complexity problems, within constraints appropriate for the platform. 
 * Manages releases / deployments / live events / scheduled maintenances
 * Owns small component or project
+
+### Leadership Behaviors
+* Is comfortable working in cross-team and cross-org
+* Understands the demands of the business as it relates to IT and Operations. 
+* Experienced troubleshooter.
+* Likes to know the "why" behind the "how"
+
+### Progress
+Engineers across studios, systems, and devops share a lot of common traits.  They're our Tier 2 support and first line troubleshooters.  To progress to a Sr Engineer, they not only show mastery of their areas of expertise but work to contribute in other areas.  They demonstrate critical thinking and analytical skills and think more in terms of projects than tasks.  The enjoy researching and experimenting with new technology while balancing functional needs.
 
 <a name="sr-sys-engineer></a>
 ## Sr. Systems /Studio / Devops Engineer
@@ -102,6 +110,11 @@ Everything a Systems / Devops / Studio Engineer does, plus:
 * Segment problems into manageable, releasable chunks
 * Designs for observability. Develops testing and monitoring approaches for projects
 * Sees solution into production and beyond. Monitors and designs logs, alerts, bug reports for signs of deeper issues.
+
+#Leadership Behaviors
+* Senior engineers are mentors to the team.  They're able to explain technology in depth both from a functional viewpoint as well as how it's used at TuneIn.  S
+
+#Progress
 
 <a name="staff-engineer"></a>
 ## Team Lead / Staff Engineer
@@ -129,6 +142,10 @@ Everything a Sr. Systems/Devops/Engineer does, plus:
 * Primary driver of resolving production issues.  Ensures proper diagnosis and approach for resolving tricky bugs.
 * Assists with project delivery from start to finish
 
+### Leadership Behaviors
+
+### Progress
+
 <a name="ops-manager"></a>
 ## Operations Manager
 ### Experience
@@ -144,6 +161,12 @@ Everything a Sr. Techops / Devops Engineer does, plus
 * Synthesizes knowledge to create novel solutions to problems at hand
 * Strong project manager skills; can balance workloads and timelines
 
+## Project Scope
+
+## Leadership Behaviors
+
+## Progress
+
 <a name="principal-architect"></a>
 ## Principal Architect
 ### Experience
@@ -157,6 +180,12 @@ Everything a Team Lead / Staff Engineer does, plus:
 * Demonstrates a unique and extraordinarily effective problem solving perspective and approach.
 * Capable of developing entirely new implementations of industry solutions - orchestration, monitoring, compute services, etc.
 
+## Project Scope
+
+## Leadership Behaviors
+
+## Progress
+
 <a name="operations-director"></a>
 ## Operations Director
 ### Experience
@@ -168,3 +197,9 @@ Everything an Operations Manager does, plus:
 * Is an authority in multiple technical core components
 * Demonstrates a unique and extraordinarily effective problem solving perspective and approach.
 * Strong command over various techniques to improve engineering health and productivity.
+
+## Project Scope
+
+## Leadership Behaviors
+
+## Progress 
