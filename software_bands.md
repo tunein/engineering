@@ -186,7 +186,8 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * You preach and live continuous improvement. You set goals, diagnose how we're performing and identify opportunities for growth/changes.
 * You make strategic decisions that have an impact on TuneIn Eng/Org. You facilitate the execution of those decisions with the help of managers + key technical stakeholders.
 * People see you as reliable and credible across the organization. You are a trusted partner; you are conscientious and do the right thing. You cultivate these same behaviors in your teams.
-* You live and preach  TuneIn's core values, always growing and succeeding as a team, measuring what truly matters.
+* You live and preach TuneIn's core values, always growing and succeeding as a team, measuring what truly matters.
+* You act and make decisions keeping the bigger team goals 1st.  For TuneIn, Product+Engineering, Engineering, then your team(s).  You contribute your time and energy helping the bigger teams succeed.
 
 <a name="unlimited"></a>
 ## Unlimited (band 7)
