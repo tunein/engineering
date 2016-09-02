@@ -164,6 +164,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 
 ### Behaviors
 * You evangelize TuneIn's engineering org + the stuff we build in the interest of helping us hire/retain fantastic engineering talent.
+* You actively and willingly teach, mentor, and collaborate with people to help them and the org level up.
 * You are a key member and decision-maker in the Eng leadership team. Your opinion will carry significant strategic weight.
 
 <a name="engineering-director"></a>
