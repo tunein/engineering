@@ -111,10 +111,20 @@ Everything a Systems / Devops / Studio Engineer does, plus:
 * Designs for observability. Develops testing and monitoring approaches for projects
 * Sees solution into production and beyond. Monitors and designs logs, alerts, bug reports for signs of deeper issues.
 
-#Leadership Behaviors
-* Senior engineers are mentors to the team.  They're able to explain technology in depth both from a functional viewpoint as well as how it's used at TuneIn.  S
+### Leadership Behaviors
+* Senior engineers are mentors to the team.  
+* They're able to explain technology in depth both from a functional viewpoint as well as how it's used at TuneIn. 
+* They advocate for simplicity, scalability, reliability, and high availability. 
+* They have strong stakeholder relationships and maintain clear channels of communication. 
+* You partner with others for design reviews. 
 
-#Progress
+### Progress
+Senior Engineers can opt for 1 of 2 roles based on their interests:
+* Team Lead
+
+
+* Operations Manager
+
 
 <a name="staff-engineer"></a>
 ## Team Lead / Staff Engineer
