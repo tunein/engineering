@@ -85,7 +85,7 @@ Everything a NOC Engineer / Systems Admin does, plus:
 * Likes to know the "why" behind the "how"
 
 ### Progress
-Engineers across studios, systems, and devops share a lot of common traits.  They're our Tier 2 support and first line troubleshooters.  To progress to a Sr Engineer, they not only show mastery of their areas of expertise but work to contribute in other areas.  They demonstrate critical thinking and analytical skills and think more in terms of projects than tasks.  The enjoy researching and experimenting with new technology while balancing functional needs.
+Engineers across studios, systems, and devops share a lot of common traits.  They're our Tier 2 support and first line troubleshooters.  To progress to a Sr Engineer, they not only show mastery of their areas of expertise but work to contribute in other areas.  They demonstrate critical thinking and analytical skills and think more in terms of projects than tasks.  They enjoy researching and experimenting with new technology while balancing functional needs.
 
 <a name="sr-sys-engineer></a>
 ## Sr. Systems /Studio / Devops Engineer
