@@ -85,7 +85,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * You are a partner in design/code reviews; helping others identify mistakes and pitfalls.
 * You understand how your product is functioning/performing in production.
 * You are identifying new opportunities to streamline/optimize our workflow + codebase.
-* You have strong relationships outside of the Engineering team.
+* You have strong relationships inside and outside of the Engineering team.
 * You have a sense of who key stakeholders are and who needs to be informed/when they need to be informed.
 
 <a name="staff-software-engineer"></a>
