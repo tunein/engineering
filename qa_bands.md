@@ -33,6 +33,17 @@
 * Coordinates releases to QA and stage environments
 * Coordinates execution plan for distributed QA partners
 * Owns small component/area on a few projects or a standalone project
+* You build analytics requirements, dashboards, and alerts to ensure we can observe how our code performs in non-prod and prod environments
+
+### Behaviors
+* You're championing quality throughout your team.
+* Testing is a natural part of your workflow; you feel nervous when we're making changes.
+* You are contributing to best practices/patterns at the software level (testing practices, risk identification and management, coding practices, style guidelines, core libraries, etc.) in the interest of producing quality.
+* You are accountable - if your team ships something you own it from inception to production.
+* You are identifying new opportunities to streamline/optimize/improve our workflow, codebase, quality techniques, tools, and processes.
+* You are collaborative: you work with other engineers on solutions that cut across teams/technologies.
+* You can work independently: you manage your own time efficiently with a strong sense of prioritization.
+* You identify issues, risks, and propose solutions.
 
 <a name="senior-qa-engineer"></a>
 ## Senior QA Engineer
@@ -48,6 +59,16 @@
 * Leads test design discussions, proposes approaches, suggests alternatives & improvements
 * Sees 'quality' into production and beyond.  Monitors logs, alerts, bug reports for signs of deeper issues
 * Advocates for observability. Works with Engineering to develop testing and monitoring approaches for projects
+
+### Behaviors
+* You are setting/establishing best practices/patterns at the software level (testing practices, risk identification and management, coding practices, style guidelines, core libraries, etc.) in the interest of producing clean, maintainable code.
+* You are an active advocate for clarity in technical approach.
+* You are helping recognize opportunities for simplification.
+* You are seen as a mentor and effective partner in helping others identify mistakes, pitfalls, risks, and alternative solutions.
+* You understand how your product is functioning/performing in production and bring a metrics focus to your job.
+* You are identifying new opportunities to streamline/optimize/improve our workflow, codebase, quality techniques, tools, and processes.
+* You have strong relationships within and outside of the Engineering team.
+* You have a sense of who key stakeholders are and who needs to be informed/when they need to be informed.
 
 <a name="staff-qa-engineer"></a>
 ## Staff QA Engineer
@@ -69,6 +90,18 @@
 * Ensures proper diagnosis and approach for resolving tricky bugs
 * Manages project and feature delivery from start to finish
 
+### Behaviors
+* You develop and refine your playbook for maintaining quality, including standards for pull requests, code reviews, testing and monitoring practices.
+* You actively look for opportunities to improve our tools and techniques to achieve product and systems quality.
+* You are actively seeking out opportunities to teach and mentor fellow team members.
+* You are actively pushing back on over-engineered solutions.
+* You understand when an MVP won't provide the depth that the business demands.
+* You are quick to revisit past assumptions - the solution that worked 'then' may not be the right solution for 'now.'
+* You help determine team goals, KPIs + projects necessary to deliver on those goals / measure KPIs.
+* You actively contribute to motivating & growing the team. You're asked to provide performance feedback + input on opportunities for individual growth.
+* You are a picture of responsibility + accountability - the organization depends on you.
+* You play a key role in hiring and promoting TuneIn as an employer.
+
 <a name="principal-qa-engineer"></a>
 ## Principal QA Engineer
 ### Technical Abilities
@@ -82,3 +115,8 @@
 * Actively finds ways to improve our engineering productivity, including diving in to teams that need the most help
 * Takes on projects based on importance to the business and/or to establishing good architecture and/or practices
 * Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends
+
+### Behaviors
+* You evangelize TuneIn's engineering org + the stuff we build in the interest of helping us hire/retain fantastic engineering talent.
+* You actively and willingly teach, mentor, and collaborate with people to help them and the org level up.
+* You are a key member and decision-maker in the Eng leadership team. Your opinion will carry significant strategic weight.
