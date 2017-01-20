@@ -208,8 +208,20 @@ Everything an Operations Manager does, plus:
 * Demonstrates a unique and extraordinarily effective problem solving perspective and approach.
 * Strong command over various techniques to improve engineering health and productivity.
 
-## Project Scope
-
-## Leadership Behaviors
-
+### Project Scope
+* Ensures goals are defined/measured against a combination of customer, technology, and quality metrics
+* Anticipates customer and business needs and leads the team so that they are ahead of the game
+* Plans for and executes organizational changes, plans, and processes
+* Can manage large scale, risky, or complex projects to completion
+* May have more than one organization under their purview
+* Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends
+  
+### Leadership Behaviors
+* You preach and live continuous improvement. You set goals, diagnose how we're performing and identify opportunities for growth/changes.
+* You make strategic decisions that have an impact on TuneIn Eng/Org. You facilitate the execution of those decisions with the help of managers + key technical stakeholders.
+* People see you as reliable and credible across the organization. You are a trusted partner; you are conscientious and do the right thing. You cultivate these same behaviors in your teams.
+* You live and preach TuneIn's core values, always growing and succeeding as a team, measuring what truly matters.
+* You act and make decisions keeping the bigger team goals 1st. For TuneIn, Product+Engineering, Engineering, then your team(s). You contribute your time and energy helping the bigger teams succeed.
+* You actively and willingly teach, mentor, and collaborate with people to help them and the org level up.
+  
 ## Progress 
