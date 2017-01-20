@@ -39,13 +39,13 @@
 * Coordinates and works with offsite QA partners
 * Owns components on their projects or a standalone project
 * Owns small component/area on a few projects or a standalone project
-* Start looking at dashboards,alerts to ensure code performs in non-prod and prod environments
+* Builds and uses dashboards, analytics and alerts to ensure code performs in non-prod and prod environments
 * Maintain release notes 
 
 ### Behaviors
 * You're championing quality throughout your team.
 * Testing is a natural part of your workflow; you feel nervous when we're making changes.
-* You are contributing to best practices/patterns at a quality level (testing practices, risk identification and management etc.) in the interest of producing quality.
+* You are contributing to best practices/patterns at a software level (testing practices, risk identification and management etc.) by collaborating with developers in the interest of producing quality.
 * You are accountable - if your team ships something you own it from inception to production.
 * You are identifying new opportunities to streamline/optimize/improve our workflow, quality techniques, and processes.
 * You are collaborative: you work with other engineers on solutions that cut across teams/technologies.
@@ -95,6 +95,7 @@
 * Determines appropriate tools & techniques for monitoring quality of code in production and diagnosing issues
 * Primary driver of investigating and coordinating resolution for production issues
 * Ensures proper diagnosis and approach for resolving tricky bugs
+* Works closely with immediate and extended teams to investigate and resolve high-priority bugs
 
 ### Behaviors
 * You develop and refine your playbook for maintaining quality, including standards for pull requests, code reviews, testing and monitoring practices.
@@ -118,6 +119,7 @@
 * Actively finds ways to improve our engineering productivity, including diving in to teams that need the most help
 * Takes on projects based on importance to the business and/or to establishing good architecture and/or practices
 * Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends
+* Triages and troubleshoots bugs and deployment issues.
 
 ### Behaviors
 * You evangelize TuneIn's engineering org + the stuff we build in the interest of helping us hire/retain fantastic engineering talent.
