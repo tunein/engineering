@@ -59,6 +59,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * You guarantee your software and are the first to know if something is amiss.
 * You are collaborative: you work with other engineers on solutions that cut across teams/technologies.
 * You can work independently: you manage your own time efficiently with a strong sense of prioritization.
+* You can manage your workload: you communicate honestly to stakeholders and yourself about the work you commit to.
 
 <a name="senior-software-engineer"></a>
 ## Senior Software Engineer (band 4)
@@ -87,6 +88,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * You are identifying new opportunities to streamline/optimize our workflow + codebase.
 * You have strong relationships inside and outside of the Engineering team.
 * You have a sense of who key stakeholders are and who needs to be informed/when they need to be informed.
+* You have a sense of urgency and proactively communicate the status of critical production issues.
 
 <a name="staff-software-engineer"></a>
 ## Staff Engineer (band 5)
@@ -117,6 +119,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * You help determine team goals, KPIs + projects necessary to deliver on those goals / measure KPIs.
 * You actively contribute to motivating & growing the team. You're asked to provide performance feedback + input on opportunities for individual growth.
 * You are a picture of responsibility + accountability - the organization depends on you.
+* You are the first line of defense for your project and are quick to respond to any issues brought to your attention.
 * You play a key role in hiring and promoting TuneIn as an employer.
 
 <a name="engineering-manager"></a>
@@ -144,6 +147,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * You focus on and cultivate a great culture where Engineers can do their best work.
 * You build, maintain and invest in relationships outside of the Engineering org, and ensure your team does the same.
 * You act with and teach appropriate urgency when the situation calls for it. 
+* You are the caretaker of your project and coordinate across teams to track down issues and keep stakeholders informed of status updates.
 * You develop + calibrate a thorough understanding of employees’ motivations, strengths, and opportunities.  You work to align opportunities for personal growth with prospective impact to TuneIn.
 * You provide constant, real-time feedback to your team. There should be no surprises.
 
