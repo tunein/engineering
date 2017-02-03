@@ -1,8 +1,8 @@
 ## TuneIn Engineering Job Bands
 
-Our job bands are listed below in order of experience level.  They are also indicated by numerical "bands", in parentheses.
+Our job bands are listed below in order of experience level. They are also indicated by numerical "bands", in parentheses.
 
-Note: in some cases there are multiple jobs within a band.  For example, Staff Software Engineer and Engineering Manager are the same level.
+Note: in some cases there are multiple jobs within a band. For example, Staff Software Engineer and Engineering Manager are the same level.
 
 * [Software Engineer II (band 2)](#software-engineer-ii)
 * [Software Engineer III (band 3)](#software-engineer-iii)
@@ -24,7 +24,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 ### Project Scope
 * Fixes bugs
 * Completes assigned tasks as part of a larger project
-* Tests own and others’ code
+* Tests own and others' code
 * Writes automated (unit, functional) tests
 
 ### Behaviors
@@ -76,7 +76,7 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * Designs and implements solutions to complex problems, with high-availability and high-reliability in mind
 * Leads design discussions, proposes approaches, suggests alternatives & improvements
 * Segment problems into manageable, easily reviewable, releasable chunks
-* Designs for observability. Develops testing and monitoring approaches for projects.  Sees solution into production and beyond.  Monitors logs, alerts, bug reports for signs of deeper issues
+* Designs for observability. Develops testing and monitoring approaches for projects. Sees solution into production and beyond. Monitors logs, alerts, bug reports for signs of deeper issues
 
 ### Behaviors
 * You are setting/establishing best practices/patterns at the software level (coding practices, style guidelines, core libraries, etc.) in the interest of producing clean, maintainable code.
@@ -135,20 +135,20 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * Works within the team to support execution, including appropriate risk mitigation.
 * Works end-to-end to ensure we minimize gaps between teams.
 * Works with Staff/Senior Engineers to develop + iterate your quality playbook including standards for pull requests, code reviews, testing, and monitoring.
-* Ensures the team owns the operation of systems and apps in production.  Drives resolution of critical issues, root cause analysis-driven actions.
+* Ensures the team owns the operation of systems and apps in production. Drives resolution of critical issues, root cause analysis-driven actions.
 * Drives hiring, motivation, growth, and retention.
 * Prepares and delivers performance and compensation reviews.
 * Establishes team goals, KPIs, & identify the necessary tactical work to reach those goals/measure those KPIs.
 
 ### Behaviors
-* You invest your time wisely and help the team determine how to best allocate their time.  You facilitate collaboration with product owners + peers to ensure the team has clear roadmaps and priorities.
+* You invest your time wisely and help the team determine how to best allocate their time. You facilitate collaboration with product owners + peers to ensure the team has clear roadmaps and priorities.
 * You drive and facilitate clarity when there's ambiguity in what's needed.
-* You ensure your team continuously improves.  You orchestrate improvement using KPIs, root cause analyses, and other mechanisms.
+* You ensure your team continuously improves. You orchestrate improvement using KPIs, root cause analyses, and other mechanisms.
 * You focus on and cultivate a great culture where Engineers can do their best work.
 * You build, maintain and invest in relationships outside of the Engineering org, and ensure your team does the same.
-* You act with and teach appropriate urgency when the situation calls for it. 
+* You act with and teach appropriate urgency when the situation calls for it.
 * You are the caretaker of your project and coordinate across teams to track down issues and keep stakeholders informed of status updates.
-* You develop + calibrate a thorough understanding of employees’ motivations, strengths, and opportunities.  You work to align opportunities for personal growth with prospective impact to TuneIn.
+* You develop + calibrate a thorough understanding of employees’ motivations, strengths, and opportunities. You work to align opportunities for personal growth with prospective impact to TuneIn.
 * You provide constant, real-time feedback to your team. There should be no surprises.
 
 <a name="principal-software-engineer"></a>
@@ -192,10 +192,9 @@ Note: in some cases there are multiple jobs within a band.  For example, Staff S
 * You make strategic decisions that have an impact on TuneIn Eng/Org. You facilitate the execution of those decisions with the help of managers + key technical stakeholders.
 * People see you as reliable and credible across the organization. You are a trusted partner; you are conscientious and do the right thing. You cultivate these same behaviors in your teams.
 * You live and preach TuneIn's core values, always growing and succeeding as a team, measuring what truly matters.
-* You act and make decisions keeping the bigger team goals 1st.  For TuneIn, Product+Engineering, Engineering, then your team(s).  You contribute your time and energy helping the bigger teams succeed.
+* You act and make decisions keeping the bigger team goals 1st. For TuneIn, Product+Engineering, Engineering, then your team(s). You contribute your time and energy helping the bigger teams succeed.
 * You actively and willingly teach, mentor, and collaborate with people to help them and the org level up.
-
 
 <a name="unlimited"></a>
 ## Unlimited (band 7)
-We aim to not have a "capped" organization.  At this level of experience and seniority, you can pretty much call yourself whatever you want.  You have an exponential impact on the company and/or industry.
+We aim to not have a "capped" organization. At this level of experience and seniority, you can pretty much call yourself whatever you want. You have an exponential impact on the company and/or industry.
