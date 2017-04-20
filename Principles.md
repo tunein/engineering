@@ -25,6 +25,7 @@
 * We prioritize and measure testing
 * We 'own' issues and actively seek to destroy the root cause
 * We believe choosing quality today makes us happy and productive tomorrow
+* We care about TuneIn as a whole
 
 ### We are agile and pragmatic
 * We build value
