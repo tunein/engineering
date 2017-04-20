@@ -54,3 +54,4 @@
 * We make time for education - we teach and learn everyday
 * We engineer our hiring and performance management practices as thoughtfully as our code
 * We are driven by curiosity and geek out over everything
+* We have a desire to see our teammates succeed
