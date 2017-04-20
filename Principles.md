@@ -43,6 +43,7 @@
 * We actively remove things (code, features, products) that we don't use
 
 ### We are data driven
+- We keep the team informed daily, never any wild surprises
 * We make logging and monitoring as important as feature development
 * We believe baselining usage/performance allows us to iterate with confidence
 * We use metrics as our guide
