@@ -1,22 +1,22 @@
-##TuneIn core values
+## TuneIn core values
 
-###We bleed teal
+### We bleed teal
 * We are transparent
 * We are passionate
 * We have fun
 * We love TuneIn
 
-###We are humble
+### We are humble
 
-###We are hungry
+### We are hungry
 
-###We are service oriented
+### We are service oriented
 * We collaborate and work together for the common good
 
 
-##Engineering Principles
+## Engineering Principles
 
-###We make time for quality
+### We make time for quality
 * We empower quality and build it into the process
 * We review our designs, our code, and our processes
 * We establish and follow our own best practices
@@ -25,28 +25,34 @@
 * We prioritize and measure testing
 * We 'own' issues and actively seek to destroy the root cause
 * We believe choosing quality today makes us happy and productive tomorrow
+* We care about TuneIn as a whole
 
-###We are agile and pragmatic
+### We are agile and pragmatic
 * We build value
 * We seek to demo early and often
 * We decide quickly; we believe perfect is enemy of good
 * We learn and iterate - we aim to only make new mistakes
 * We don’t reinvent the wheel
+* We adapt to critical events and bring a sense of urgency
+* We volunteer regularly
 
-###We keep it simple
+### We keep it simple
 * We simplify both in terms of code and product
 * We ask questions, revisit past assumptions, and reduce complexity
 * We automate repeatable tasks
 * We actively remove things (code, features, products) that we don't use
 
-###We are data driven
+### We are data driven
+- We keep the team informed daily, never any wild surprises
 * We make logging and monitoring as important as feature development
 * We believe baselining usage/performance allows us to iterate with confidence
 * We use metrics as our guide
 * We prototype and A/B test to make decisions iteratively
 
-###We love getting better
+### We love getting better
 * We embrace progress and are not afraid to challenge our own status quo
 * We make time for education - we teach and learn everyday
 * We engineer our hiring and performance management practices as thoughtfully as our code
 * We are driven by curiosity and geek out over everything
+* We have a desire to see our teammates succeed
+* We start with why we can instead of why we shouldn't
