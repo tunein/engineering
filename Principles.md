@@ -34,6 +34,7 @@
 * We learn and iterate - we aim to only make new mistakes
 * We don’t reinvent the wheel
 * We adapt to critical events and bring a sense of urgency
+* We volunteer regularly
 
 ### We keep it simple
 * We simplify both in terms of code and product
