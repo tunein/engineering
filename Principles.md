@@ -33,6 +33,7 @@
 * We decide quickly; we believe perfect is enemy of good
 * We learn and iterate - we aim to only make new mistakes
 * We don’t reinvent the wheel
+* We adapt to critical events and bring a sense of urgency
 
 ### We keep it simple
 * We simplify both in terms of code and product
