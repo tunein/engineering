@@ -59,7 +59,7 @@
 * Strong command of one or more testing techniques
 * Can explain QA testing framework for the project they are working on
 * Good understanding of how each component, service, works and affects user experience
-* Finds and provides suggestions for resolving conflicting bug priorities and sutomation tests
+* Finds and provides suggestions for resolving conflicting bug priorities and automation tests
 
 ### Project Scope
 * Owns a medium component or project
