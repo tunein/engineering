@@ -1,13 +1,13 @@
 ## Tunein Ops Job Bands
 
-* [NOC or IT Analyst] (#noc-analyst)
-* [NOC Engineer / Systems Admin] (#noc-engineer)
-* [Systems/Studio/Devops Engineer] (#sys-engineer)
-* [Sr Systems/Studio/Devops Engineer] (#sr-sys-engineer)
-* [Team Lead/Staff Engineer] (#staff-engineer)
-* [Operations Manager] (#ops-manager)
-* [Principal Architect] (#principal-architect)
-* [Operations Director] (#operations-director)
+* [NOC or IT Analyst](#noc-analyst)
+* [NOC Engineer / Systems Admin](#noc-engineer)
+* [Systems/Studio/Devops Engineer](#sys-engineer)
+* [Sr Systems/Studio/Devops Engineer](#sr-sys-engineer)
+* [Team Lead/Staff Engineer](#staff-engineer)
+* [Operations Manager](#ops-manager)
+* [Principal Architect](#principal-architect)
+* [Operations Director](#operations-director)
 
 <a name="noc-analyst"></a>
 ## Noc or IT Analyst (Entry Level)
@@ -59,7 +59,7 @@ Everything an Analyst does, plus:
 * Enjoys finding new ways to improve processes and procedures
 
 ### Progress
-The NOC engineer/Systems admins grow by working closely with senior engineers and architects. Through that partnership they learn how to scale applications, what high availability is, and how to architect solutions with design for failure. 
+The NOC engineer/Systems admins grow by working closely with senior engineers and architects. Through that partnership they learn how to scale applications, what high availability is, and how to architect solutions with design for failure.
 
 <a name="sys-engineer"></a>
 ## Systems / Studio / Devops Engineer
@@ -67,20 +67,20 @@ The NOC engineer/Systems admins grow by working closely with senior engineers an
 * 2-3 years of industry experience. Tunein is not the first full time role
 
 ### Technical Abilities
-Everything a NOC Eng / Systems Admin does, plus: 
+Everything a NOC Eng / Systems Admin does, plus:
 *Shows complete ownership over projects/solutions that cover multiple core components.
 *Troubleshooting and root cause analysis skills are critical components
 
 ### Project Scope
 Everything a NOC Engineer / Systems Admin does, plus:
 * Delivers assignments with high quality, documentation and timeliness.
-* Designs solutions to medium complexity problems, within constraints appropriate for the platform. 
+* Designs solutions to medium complexity problems, within constraints appropriate for the platform.
 * Manages releases / deployments / live events / scheduled maintenances
 * Owns small component or project
 
 ### Leadership Behaviors
 * Is comfortable working in cross-team and cross-org
-* Understands the demands of the business as it relates to IT and Operations. 
+* Understands the demands of the business as it relates to IT and Operations.
 * Experienced troubleshooter.
 * Likes to know the "why" behind the "how"
 
@@ -93,9 +93,9 @@ Engineers across studios, systems, and devops share a lot of common traits.  The
 * 3-5 years of industry experience. should be familiar with IT/Ops/Tech concepts introduced within the last 48 months
 
 ### Technical Abilities
-Everything a Systems / Devops / Studio Engineer does, plus: 
+Everything a Systems / Devops / Studio Engineer does, plus:
 
-* Strong command of one or more TuneIn application ecosystems. 
+* Strong command of one or more TuneIn application ecosystems.
 * Strong command of one or more core components
 * Can explain TuneIn's systems architecture to others
 * Familiarity with TuneIn's systems / application code base
@@ -106,17 +106,17 @@ Everything a Systems / Devops / Studio Engineer does, plus:
 Everything a Systems / Devops / Studio Engineer does, plus:
 * Owns medium sized component or project
 * Designs and implements solutions to complex problems, with high-availability and high-reliability in mind
-* Leads design discussions, proposes approaches, suggests alternatives & improvements 
+* Leads design discussions, proposes approaches, suggests alternatives & improvements
 * Segment problems into manageable, releasable chunks
 * Designs for observability. Develops testing and monitoring approaches for projects
 * Sees solution into production and beyond. Monitors and designs logs, alerts, bug reports for signs of deeper issues.
 
 ### Leadership Behaviors
-* Senior engineers are mentors to the team.  
-* They're able to explain technology in depth both from a functional viewpoint as well as how it's used at TuneIn. 
-* They advocate for simplicity, scalability, reliability, and high availability. 
-* They have strong stakeholder relationships and maintain clear channels of communication. 
-* You partner with others for design reviews. 
+* Senior engineers are mentors to the team.
+* They're able to explain technology in depth both from a functional viewpoint as well as how it's used at TuneIn.
+* They advocate for simplicity, scalability, reliability, and high availability.
+* They have strong stakeholder relationships and maintain clear channels of communication.
+* You partner with others for design reviews.
 
 ### Progress
 Senior Engineers can opt for 1 of 2 roles based on their interests:
@@ -139,7 +139,7 @@ Everything a Sr. Systems/Devops Engineer does, plus:
 * Rapid learner that quickly ramps on new languages, frameworks, and systems
 * Strong understanding of TuneIn's application and systems architecture
 * Understands and drives techniques for improving engineering productivity
-* Experienced with a wide variety of system architecture approaches, patterns, and implementation styles.  
+* Experienced with a wide variety of system architecture approaches, patterns, and implementation styles.
 * Synthesizes knowledge to create novel solutions to problems at hand
 
 ### Project Scope
@@ -167,7 +167,7 @@ Everything a Sr. Techops / Devops Engineer does, plus
 * Rapid learner that quickly ramps on systems, technology, processes.
 * Strong understanding of TuneIn's application and systems architecture
 * Understands and drives techniques for improving engineering productivity
-* Experienced with a wide variety of development approaches, patterns, and implementation styles.  
+* Experienced with a wide variety of development approaches, patterns, and implementation styles.
 * Synthesizes knowledge to create novel solutions to problems at hand
 * Strong project manager skills; can balance workloads and timelines
 
@@ -215,7 +215,7 @@ Everything an Operations Manager does, plus:
 * Can manage large scale, risky, or complex projects to completion
 * May have more than one organization under their purview
 * Maintains a technology vision and roadmap that anticipates TuneIn customer, industry, and technology needs and trends
-  
+
 ### Leadership Behaviors
 * You preach and live continuous improvement. You set goals, diagnose how we're performing and identify opportunities for growth/changes.
 * You make strategic decisions that have an impact on TuneIn Eng/Org. You facilitate the execution of those decisions with the help of managers + key technical stakeholders.
@@ -223,5 +223,5 @@ Everything an Operations Manager does, plus:
 * You live and preach TuneIn's core values, always growing and succeeding as a team, measuring what truly matters.
 * You act and make decisions keeping the bigger team goals 1st. For TuneIn, Product+Engineering, Engineering, then your team(s). You contribute your time and energy helping the bigger teams succeed.
 * You actively and willingly teach, mentor, and collaborate with people to help them and the org level up.
-  
-## Progress 
+
+## Progress
