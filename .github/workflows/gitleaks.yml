@@ -1,0 +1,23 @@
+name: GitLeaks Scan
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  GitLeaks:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GitLeaks Scan
+        run: |
+          if [ -f .github/gitleaks.toml ]
+          then
+            ARGS="--additional-config .github/gitleaks.toml"
+          else
+            ARGS=""
+          fi
+          docker run -v "$(pwd):/$(basename $(pwd))" zricethezav/gitleaks:latest --path="/$(basename $(pwd))" --verbose --no-git $(echo $ARGS)
+
